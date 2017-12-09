@@ -10,7 +10,7 @@ cfgfile="$basedir/b3coin.conf"
 
 [ -e "$basedir" ] || mkdir "$basedir"
 
-# Blackcoin does not clean up DB log files by default
+# DangerCoin does not clean up DB log files by default
 [ -e "$dbfile" ] || echo 'set_flags DB_LOG_AUTOREMOVE' > "$dbfile"
 
 exec /usr/lib/b3coin/b3coin-qt "$@"

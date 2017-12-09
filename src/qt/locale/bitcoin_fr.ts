@@ -14,10 +14,10 @@
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
-Copyright © 2012-2014 The NovaCoin developers
+Copyright © 2012-2014 The DangerCoin developers
 Copyright © 2014 The B3-Coin developers</source>
         <translation>Copyright © 2009-2014 Les développeurs Bitcoin
-Copyright © 2012-2014 Les développeurs NovaCoin
+Copyright © 2012-2014 Les développeurs DangerCoin
 Copyright © 2014 Les développeurs B3-Coin</translation>
     </message>
     <message>

@@ -1,4 +1,4 @@
-<?xml version="1.0" ?><!DOCTYPE TS><TS language="zh_TW" version="2.1">
+w<?xml version="1.0" ?><!DOCTYPE TS><TS language="zh_TW" version="2.1">
 <context>
     <name>AboutDialog</name>
     <message>
@@ -14,7 +14,7 @@
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
-Copyright © 2012-2014 The NovaCoin developers
+Copyright © 2012-2014 The DangerCoin developers
 Copyright © 2014 The B3-Coin developers</source>
         <translation type="unfinished"/>
     </message>

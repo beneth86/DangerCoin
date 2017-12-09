@@ -14,7 +14,7 @@
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
-Copyright © 2012-2014 The NovaCoin developers
+Copyright © 2012-2014 The DangerCoin developers
 Copyright © 2014 The B3-Coin developers</source>
         <translation type="unfinished"/>
     </message>
@@ -396,7 +396,7 @@ This product includes software developed by the OpenSSL Project for use in the O
     <message>
         <location line="+39"/>
         <source>Modify configuration options for B3-Coin</source>
-        <translation>Spremeni nastavitve za Blackcoin</translation>
+        <translation>Spremeni nastavitve za DangerCoin</translation>
     </message>
     <message>
         <location line="+17"/>

@@ -14,7 +14,7 @@
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
-Copyright © 2012-2014 The NovaCoin developers
+Copyright © 2012-2014 The DangerCoin developers
 Copyright © 2014 The B3-Coin developers</source>
         <translation type="unfinished"/>
     </message>
@@ -1265,7 +1265,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+7"/>
         <source>Use black visual theme (requires restart)</source>
-        <translation>Verwende das schwarze Blackcoin Wallet Design (Neustart erforderlich)</translation>
+        <translation>Verwende das schwarze DangerCoin Wallet Design (Neustart erforderlich)</translation>
     </message>
     <message>
         <location line="+71"/>
@@ -1593,7 +1593,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location line="+7"/>
         <source>Open the B3-Coin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Offne die Blackcoin Fehlerlogs aus dem Datenverzeichnis. Diese Funktion kann bei größeren Log-Files länger benötigen.</translation>
+        <translation>Offne die DangerCoin Fehlerlogs aus dem Datenverzeichnis. Diese Funktion kann bei größeren Log-Files länger benötigen.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1603,7 +1603,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../rpcconsole.cpp" line="+325"/>
         <source>Welcome to the B3-Coin RPC console.</source>
-        <translation>Willkommen zur Blackcoin RPC Anwendung.</translation>
+        <translation>Willkommen zur DangerCoin RPC Anwendung.</translation>
     </message>
     <message>
         <location line="+1"/>

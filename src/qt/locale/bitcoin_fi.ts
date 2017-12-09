@@ -14,10 +14,10 @@
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
-Copyright © 2012-2014 The NovaCoin developers
+Copyright © 2012-2014 The DangerCoin developers
 Copyright © 2014 The B3-Coin developers</source>
         <translation>Copyright © 2009-2014 The Bitcoin developers
-Copyright © 2012-2014 The NovaCoin developers
+Copyright © 2012-2014 The DangerCoin developers
 Copyright © 2014 The B3-Coin developers</translation>
     </message>
     <message>
@@ -233,7 +233,7 @@ Tämä tuote sisältää OpenSSL-projektin kehittämää ohjelmistoa OpenSSL-ty�
     <message>
         <location line="+1"/>
         <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR COINS&lt;/b&gt;!</source>
-        <translation>Varoitus: Jos salaat lompakkosi ja hukkaat salasanasi, &lt;b&gt;MENETÄT KAIKKI BLACKCOINISI&lt;/b&gt;!</translation>
+        <translation>Varoitus: Jos salaat lompakkosi ja hukkaat salasanasi, &lt;b&gt;MENETÄT KAIKKI DANGERCOINISI&lt;/b&gt;!</translation>
     </message>
     <message>
         <location line="+0"/>
@@ -1200,7 +1200,7 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     <message>
         <location line="-57"/>
         <source>Connect to the B3-Coin network through a SOCKS5 proxy (e.g. when connecting through Tor).</source>
-        <translation>Yhdistä Blackcoin-verkkoon SOCKS5-välityspalvelimen kautta (esim. kun yhdistetään Tor:lla).</translation>
+        <translation>Yhdistä DangerCoin-verkkoon SOCKS5-välityspalvelimen kautta (esim. kun yhdistetään Tor:lla).</translation>
     </message>
     <message>
         <location line="+3"/>
@@ -1405,7 +1405,7 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
     <message>
         <location filename="../paymentserver.cpp" line="+107"/>
         <source>Cannot start b3coin: click-to-pay handler</source>
-        <translation>Blackcoin-asiakasohjelmaa ei voida käynnistää: klikkaa maksaaksesi-käsittelijä</translation>
+        <translation>DangerCoin-asiakasohjelmaa ei voida käynnistää: klikkaa maksaaksesi-käsittelijä</translation>
     </message>
 </context>
 <context>
@@ -1678,7 +1678,7 @@ Tämä tarkoittaa, että ainakin %2 rahansiirtopalkkio tarvitaan.</translation>
         <location line="+5"/>
         <location line="+5"/>
         <source>Send Coins</source>
-        <translation>Lähetä Blackcoineja</translation>
+        <translation>Lähetä DangerCoineja</translation>
     </message>
     <message>
         <location line="+76"/>

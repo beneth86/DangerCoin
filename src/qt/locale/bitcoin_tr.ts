@@ -14,10 +14,10 @@
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
-Copyright © 2012-2014 The NovaCoin developers
+Copyright © 2012-2014 The DangerCoin developers
 Copyright © 2014 The B3-Coin developers</source>
         <translation>Telif Hakkı © 2009-2014 Bitcoin geliştiricileri
-Telif Hakkı © 2012-2014 NovaCoin geliştiricileri
+Telif Hakkı © 2012-2014 DangerCoin geliştiricileri
 Telif Hakkı © 2014 B3-Coin geliştiricileri</translation>
     </message>
     <message>
@@ -1405,7 +1405,7 @@ This label turns red, if the priority is smaller than &quot;medium&quot;.
     <message>
         <location filename="../paymentserver.cpp" line="+107"/>
         <source>Cannot start b3coin: click-to-pay handler</source>
-        <translation>Blackcoin: tıkla-ve-öde işleyicisi başlatılamıyor</translation>
+        <translation>DangerCoin: tıkla-ve-öde işleyicisi başlatılamıyor</translation>
     </message>
 </context>
 <context>

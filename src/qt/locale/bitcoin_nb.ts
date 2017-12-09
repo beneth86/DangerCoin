@@ -14,10 +14,10 @@
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
-Copyright © 2012-2014 The NovaCoin developers
+Copyright © 2012-2014 The DangerCoin developers
 Copyright © 2014 The B3-Coin developers</source>
         <translation>Copyright © 2009-2014 The Bitcoin developers
-Copyright © 2012-2014 The NovaCoin developers
+Copyright © 2012-2014 The DangerCoin developers
 Copyright © 2014 The B3-Coin developers</translation>
     </message>
     <message>
@@ -1143,7 +1143,7 @@ Dette betyr at det trengs en avgift på minimum %2.</translation>
     <message>
         <location line="+3"/>
         <source>&amp;Start B3-Coin on system login</source>
-        <translation>&amp;Start Blackcoin ved innlogging</translation>
+        <translation>&amp;Start DangerCoin ved innlogging</translation>
     </message>
     <message>
         <location line="+21"/>
@@ -1661,7 +1661,7 @@ Dette betyr at det trengs en avgift på minimum %2.</translation>
         <location line="+5"/>
         <location line="+5"/>
         <source>Send Coins</source>
-        <translation>Send Blackcoins</translation>
+        <translation>Send DangerCoins</translation>
     </message>
     <message>
         <location line="+76"/>

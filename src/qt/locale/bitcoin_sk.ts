@@ -14,10 +14,10 @@
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
-Copyright © 2012-2014 The NovaCoin developers
+Copyright © 2012-2014 The DangerCoin developers
 Copyright © 2014 The B3-Coin developers</source>
         <translation>Copyright © 2009-2014 The Bitcoin developers
-Copyright © 2012-2014 The NovaCoin developers
+Copyright © 2012-2014 The DangerCoin developers
 Copyright © 2014 The B3-Coin developers</translation>
     </message>
     <message>
@@ -1607,7 +1607,7 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     <message>
         <location line="+7"/>
         <source>Open the B3-Coin debug log file from the current data directory. This can take a few seconds for large log files.</source>
-        <translation>Otvorte Blackcoin súbor denníku ladenia z aktuálneho adresára dát. To môže trvať niekoľko sekúnd pre veľké súbory denníka.</translation>
+        <translation>Otvorte DangerCoin súbor denníku ladenia z aktuálneho adresára dát. To môže trvať niekoľko sekúnd pre veľké súbory denníka.</translation>
     </message>
     <message>
         <location line="+102"/>
@@ -1617,7 +1617,7 @@ To znamená, že je potrebný poplatok aspoň %2.</translation>
     <message>
         <location filename="../rpcconsole.cpp" line="+325"/>
         <source>Welcome to the B3-Coin RPC console.</source>
-        <translation>Vitajte v konzole Blackcoin RPC.</translation>
+        <translation>Vitajte v konzole DangerCoin RPC.</translation>
     </message>
     <message>
         <location line="+1"/>

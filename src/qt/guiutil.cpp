@@ -83,7 +83,7 @@ void setupAmountWidget(QLineEdit *widget, QWidget *parent)
 
 bool parseBitcoinURI(const QUrl &uri, SendCoinsRecipient *out)
 {
-    // NovaCoin: check prefix
+    // DangerCoin: check prefix
     if(uri.scheme() != QString("b3coin"))
         return false;
 

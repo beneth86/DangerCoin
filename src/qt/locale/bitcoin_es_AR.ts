@@ -4,7 +4,7 @@
     <message>
         <location filename="../forms/aboutdialog.ui" line="+14"/>
         <source>About B3-Coin</source>
-        <translation>Sobre Blackcoin</translation>
+        <translation>Sobre DangerCoin</translation>
     </message>
     <message>
         <location line="+39"/>
@@ -14,10 +14,10 @@
     <message>
         <location line="+41"/>
         <source>Copyright © 2009-2014 The Bitcoin developers
-Copyright © 2012-2014 The NovaCoin developers
+Copyright © 2012-2014 The DangerCoin developers
 Copyright © 2014 The B3-Coin developers</source>
         <translation>Copyright © 2009-2014 Los Desarrolladores Bitcoin
-Copyright © 2012-2014 Los Desarrolladores NovaCoin
+Copyright © 2012-2014 Los Desarrolladores DangerCoin
 Copyright © 2014 Los Desarrolladores Bitcoin</translation>
     </message>
     <message>
